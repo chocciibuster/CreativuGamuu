@@ -2,3 +2,4 @@
 
 - Titel am Anfang einblenden
   - ASCII-Titelbild?
+- Typewriter-Text apperance
